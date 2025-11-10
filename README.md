@@ -18,9 +18,9 @@
 ![](https://github.com/kiri4art/Lab7/blob/main/Lab7Prog1.png)
 ![](https://github.com/kiri4art/Lab7/blob/main/Lab7Prog2.png)
 ## 3. Результаты работы программы ##
-![](https://github.com/kiri4art/Lab7/blob/main/Lab7Ans1.png)
-![](https://github.com/kiri4art/Lab7/blob/main/Lab7Ans2.png)
-![](https://github.com/kiri4art/Lab7/blob/main/Lab7Ans3.png)
+![](https://github.com/kiri4art/Lab7/blob/main/Lab7Ans1.png)<br>
+![](https://github.com/kiri4art/Lab7/blob/main/Lab7Ans2.png)<br>
+![](https://github.com/kiri4art/Lab7/blob/main/Lab7Ans3.png)<br>
 Программа успешно прошла проверку
 ## 4. Информация о разработчике ##
 Кириченко Артем, бИПТ-252
