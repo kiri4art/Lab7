@@ -1,0 +1,3 @@
+﻿  task3.c
+C:\Users\ДНС\source\repos\Lab7\task3\task3.c(9,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  task3.vcxproj -> C:\Users\ДНС\source\repos\Lab7\x64\Debug\task3.exe
