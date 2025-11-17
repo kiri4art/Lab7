@@ -13,7 +13,7 @@
 6. После проверок выводим ответ на экран.
 7. Конец.
 ### Блок-схема ###
-![](https://github.com/kiri4art/Lab7/blob/main/Lab7Al.png)
+![](https://github.com/kiri4art/Lab7/blob/main/Lab7Algo.png)
 ## 2. Реализация программы ##
 ![](https://github.com/kiri4art/Lab7/blob/main/Lab7Prog1.png)
 ![](https://github.com/kiri4art/Lab7/blob/main/Lab7Prog2.png)
